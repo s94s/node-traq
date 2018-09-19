@@ -1,0 +1,9 @@
+{
+    "mongodb": {
+      "url_ei":"mongodb://localhost:27017/lnt_ei_db",      
+      "url_cb":"mongodb://localhost:27017/lnt_cb_db",
+      "url_sw":"mongodb://localhost:27017/lnt_sw_db",
+      "url_mn":"mongodb://localhost:27017/lnt_mn_db"     
+    },
+    "couchbaseUrls" : [ "http://203.197.8.217:4985/lnt_db/_design/"]
+}
